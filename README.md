@@ -4,10 +4,14 @@
  
 A little about me:
 
+- 🌟 I aspire to be ... an HTML/CSS developer (aka: Front End ddeveloper/designer). Basically someone who's main focus is styling
 - 🔭 I’m currently working on ... Completing the Full Stack Web Dev program at Lambda School
 - 🌱 I’m currently learning ... Ant Design
+- ❤️ Favorite/Most proficient tech skills... HTML, CSS, LESS, SQL
+- 🧠 Familiar with but can use refresher/more practice... JavaScript, React, Python
 - 📫 How to reach me: ... Follow the Gmail or LinkedIN links above
 - 😄 Pronouns: ... She/Her
+- 🐶 Pets... I have 5 dogs who are my children
 - ⚡ Fun fact: ... I have 2 self-published books that can be purchased: [The Mansion](https://www.amazon.com/Mansion-Pendleton-Island-Pendelton-Book-ebook/dp/B00WNDAIVI), [Traveling Soldier](https://www.amazon.com/Traveling-Soldier-Britney-Hawthorne/dp/1515019284) 
 
 - 💬 Some of my favorite quotes: <br>
