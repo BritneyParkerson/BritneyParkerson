@@ -1,6 +1,8 @@
-### Hi there 👋
+### Oh hi! You stumbled upon my web of code creativity! Feel free to browse around! You may find something you like! 👋
 
  [![Gmail Badge](https://img.shields.io/badge/-britneydparkerson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britneydparkerson@gmail.com)](mailto:britneydparkerson@gmail.com)
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britney-parkerson/)](https://www.linkedin.com/in/britney-parkerson/)
 
 Here are some ideas to get you started:
 
@@ -13,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ...
 -->
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
