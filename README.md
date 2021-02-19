@@ -12,7 +12,9 @@ A little about me:
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... I have 2 self-published books that can be purchased: [The Mansion](https://www.amazon.com/Mansion-Pendleton-Island-Pendelton-Book-ebook/dp/B00WNDAIVI), [Traveling Soldier](https://www.amazon.com/Traveling-Soldier-Britney-Hawthorne/dp/1515019284) 
 
-- 💬 Some of my favorite quotes:
-<img align="left" alt="Don't lose faith" src="https://www.fearlessmotivation.com/wp-content/uploads/2017/12/steve-jobs-said-FB.jpg" width="50%" /> <img align="center" alt="The Crazy Ones" src="https://www.fearlessmotivation.com/wp-content/uploads/2017/06/steve-jobs-quotes-crazy.jpg" width="50%" /> <img align="right" alt="Follow your arrow" src="https://www.azquotes.com/picture-quotes/quote-follow-your-arrow-wherever-it-points-kacey-musgraves-64-15-26.jpg" width="50%" />
+- 💬 Some of my favorite quotes: <br>
+<img align="left" alt="Don't lose faith" src="https://www.fearlessmotivation.com/wp-content/uploads/2017/12/steve-jobs-said-FB.jpg" width="25%" /> 
+<img align="center" alt="The Crazy Ones" src="https://www.fearlessmotivation.com/wp-content/uploads/2017/06/steve-jobs-quotes-crazy.jpg" width="25%" /> 
+<img align="right" alt="Follow your arrow" src="https://www.azquotes.com/picture-quotes/quote-follow-your-arrow-wherever-it-points-kacey-musgraves-64-15-26.jpg" width="25%" />
 
 -->
