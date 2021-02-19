@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**BritneyParkerson/BritneyParkerson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![Gmail Badge](https://img.shields.io/badge/-britneydparkerson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britneydparkerson@gmail.com)](mailto:britneydparkerson@gmail.com)
 
 Here are some ideas to get you started:
 
@@ -11,6 +10,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ...
 -->
