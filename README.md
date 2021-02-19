@@ -1,9 +1,9 @@
 ### Oh hi! You stumbled upon my web of code creativity! Feel free to browse around! You may find something you like! 👋
-
+<p align="center">
  [![Gmail Badge](https://img.shields.io/badge/-britneydparkerson@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:britneydparkerson@gmail.com)](mailto:britneydparkerson@gmail.com)
  
  [![Linkedin Badge](https://img.shields.io/badge/-Britney_Parkerson-teal?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britney-parkerson/)](https://www.linkedin.com/in/britney-parkerson/)
-
+</p>
 A little about me:
 
 - 🔭 I’m currently working on ... Completing the Full Stack Web Dev program at Lambda School
