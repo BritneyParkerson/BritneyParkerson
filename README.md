@@ -4,15 +4,18 @@
  
  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/britney-parkerson/)](https://www.linkedin.com/in/britney-parkerson/)
 
-Here are some ideas to get you started:
+A little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on ... Completing the Full Stack Web Dev program at Lambda School
+- 🌱 I’m currently learning ... Ant Design
+- 📫 How to reach me: ... Follow the Gmail or LinkedIN links above
 - 😄 Pronouns: ... She/Her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I have 2 self-published books that can be purchased: [The Mansion](https://www.amazon.com/Mansion-Pendleton-Island-Pendelton-Book-ebook/dp/B00WNDAIVI), [Traveling Soldier](https://www.amazon.com/Traveling-Soldier-Britney-Hawthorne/dp/1515019284) 
+
+- 💬 Some of my favorite quotes:
+<img align="center" alt="Code gif" src="https://www.fearlessmotivation.com/wp-content/uploads/2017/12/steve-jobs-said-FB.jpg" width="50%" />
+<img align="center" alt="Code gif" src="https://www.fearlessmotivation.com/wp-content/uploads/2017/06/steve-jobs-quotes-crazy.jpg" width="50%" />
+<img align="center" alt="Code gif" src="https://www.azquotes.com/picture-quotes/quote-follow-your-arrow-wherever-it-points-kacey-musgraves-64-15-26.jpg" width="50%" />
+<img align="center" alt="Code gif" src="" width="50%" />
+
 -->
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
