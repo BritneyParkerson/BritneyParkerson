@@ -4,7 +4,7 @@
  
 A little about me:
 
-- 🌟 I aspire to be ... an HTML/CSS developer (aka: Front End ddeveloper/designer). Basically someone who's main focus is styling
+- 🌟 I aspire to be ... an HTML/CSS developer (aka: Front End developer/designer). Basically someone who's main focus is styling
 - 🔭 I’m currently working on ... Completing the Full Stack Web Dev program at Lambda School
 - 🌱 I’m currently learning ... Ant Design
 - ❤️ Favorite/Most proficient tech skills... HTML, CSS, LESS, SQL
